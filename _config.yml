@@ -49,7 +49,7 @@ resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/chumr"
   # resume_website_url:           "https://rchum.github.io/project1"
   
-resume_print_social_links:      true
+resume_print_social_links:      false
 
 # Design settings
 resume_theme:                   default
