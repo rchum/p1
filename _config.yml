@@ -14,13 +14,13 @@ resume_name:                    "Ron Chum, MBA"
 resume_title:                   "Credential"
 
 # used for the contact button in _layouts/resume.html
-#resume_contact_email:           "rchum2@illinois.edu"
+#resume_contact_email:           "...@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-#resume_contact_telephone:       "331-308-0008"
-#resume_contact_address:         "PO Box 681492, Schaumburg IL 60168"
+#resume_contact_telephone:       "000-000-0000"
+#resume_contact_address:         "address"
 
-#resume_header_contact_info:     "PO Box 681492, Schaumburg IL 60168 • 331-308-0008 • rchum2@illinois.edu"
+#resume_header_contact_info:     "address • phone number • email"
 #display_header_contact_info:    "false"
 
 #resume_header_intro: "<p>Technological advancements are happening at an unprecedented pace, and it can be challenging to adapt to these changes. However, it is important to remember that learning and adapting is a continuous process, and it is never too late to start.</p><p>‘Stay hungry. Stay foolish.’ - Steve Jobs</p>"
